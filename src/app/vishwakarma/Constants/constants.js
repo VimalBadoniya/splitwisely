@@ -1,0 +1,5 @@
+export const BUTTON_TYPES = {
+  GENERAL: "GENERAL",
+  SUCCESS: "SUCCESS",
+  ERROR: "ERROR",
+};
