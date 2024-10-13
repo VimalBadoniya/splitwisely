@@ -1,0 +1,15 @@
+.itemContainer {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  margin: var(--global-margin);
+}
+
+.searchInput {
+  border-radius: 12px;
+  background-color: var(--background);
+  border: 1px solid var(--primary-color);
+  color: var(--primary-color);
+  width: 70%;
+  padding: 8px;
+}
