@@ -1,3 +1,10 @@
 .filterButton {
   font-size: larger;
 }
+
+.summaryWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 8px;
+}

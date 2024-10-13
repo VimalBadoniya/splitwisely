@@ -4,7 +4,7 @@ import styles from "./OverallSummary.module.css";
 
 export default function OverallSummary() {
   return (
-    <div>
+    <div className={styles.summaryWrapper}>
       <span>
         Overall, you will get <span>$500</span>
       </span>
